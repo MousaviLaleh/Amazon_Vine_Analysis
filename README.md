@@ -47,7 +47,7 @@ In the next step we will retrieve all the rows where the number of helpful_votes
 
 <br/>
 
-And then check the reviews was and was not part of the Vine program. <br/>
+And then check if the reviews was or was not part of the Vine program. <br/>
 ![05.png](Images/05.png)
 
 
