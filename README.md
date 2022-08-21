@@ -1,2 +1,4 @@
 # Amazon_Vine_Analysis
-analyze Amazon Vine reviews with PySpark
+Analyzing Amazon reviews written by members of the paid Amazon Vine program using PySpark to perform the ETL process.
+
+
