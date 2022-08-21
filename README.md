@@ -64,7 +64,10 @@ And then check the reviews was and was not part of the Vine program. <br/>
 
 
 
+## Summary
+There is not a significant bias in the reviews from Vine members in the Outdoor equipments dataset. The paid members with 52.33 percent and non-paid members with 52.69 percent show equal result to support this statement.
 
+<br/>
 
 
 
