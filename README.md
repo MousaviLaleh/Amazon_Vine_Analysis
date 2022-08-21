@@ -38,7 +38,7 @@ For this analysis, we will determine if having a paid Vine review makes a differ
 
 First we pick reviews  that are more likely to be helpful.
 <br/>
-1[03.png](Images/03.png)
+![03.png](Images/03.png)
 
 <br/>
 
