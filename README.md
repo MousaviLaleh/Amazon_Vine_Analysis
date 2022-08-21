@@ -33,7 +33,6 @@ Queries to confirm that the data has been uploaded
 
 ## Determine Bias of Vine Reviews
 For this analysis, we will determine if having a paid Vine review makes a difference in the percentage of 5-star reviews. 
-
 <br/>
 
 First we pick reviews  that are more likely to be helpful.
