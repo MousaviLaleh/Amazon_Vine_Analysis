@@ -32,5 +32,33 @@ Queries to confirm that the data has been uploaded
 
 
 ## Determine Bias of Vine Reviews
-For this analysis, you'll determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+For this analysis, we will determine if having a paid Vine review makes a difference in the percentage of 5-star reviews. 
+
+<br/>
+
+First we pick reviews  that are more likely to be helpful.
+<br/>
+1[03.png](Images/03.png)
+
+<br/>
+
+In the next step we will retrieve all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%. <br/>
+
+![04.png](Images/04.png)
+
+<br/>
+
+And then check the reviews was and was not part of the Vine program. <br/>
+
+![05.png](Images/05.png)
+
+<br/>
+
+
+
+
+
+
+
+
 
