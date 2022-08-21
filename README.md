@@ -18,6 +18,7 @@ We will transform the DataFrame into four separate DataFrames that match the tab
 
 <br/>
 Queries to confirm that the data has been uploaded
+
 <br/>
 ![02.png](Images/02.png)
 
