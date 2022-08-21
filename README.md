@@ -20,6 +20,7 @@ We will transform the DataFrame into four separate DataFrames that match the tab
 ![01.png](Images/01.png)
 
 <br/>
+
 Queries to confirm that the data has been uploaded
 
 <br/>
