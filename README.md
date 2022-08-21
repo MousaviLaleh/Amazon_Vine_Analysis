@@ -66,7 +66,7 @@ And then check if the reviews was or was not part of the Vine program. <br/>
 
 
 ## Summary
-There is not a significant bias in the reviews from Vine members in the Outdoor equipments dataset. The paid members with 52.33 percent and non-paid members with 52.69 percent show equal and make no difference for this dataset, and the companies or publishers in the outdoor equipments market can stop this small fee to Amazon, which is not recomended in case of losing their market and customers in Amazon.
+The paid members with 52.34 percent and non-paid members with 52.69 percent show that having a paid Vine review doesn't makes a difference in the percentage of 5-star reviews for the outdoor equipments in Amazon market, and the companies can cancel this payment.
 
 <br/>
 
