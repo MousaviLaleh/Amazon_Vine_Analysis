@@ -59,7 +59,7 @@ And then check if the reviews was or was not part of the Vine program.
 
 <br/>
 
-### Percentage of 5-star reviews
+### Percentage of 5-star Reviews
 
 <br/>
 
