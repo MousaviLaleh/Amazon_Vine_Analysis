@@ -21,7 +21,7 @@ For this part of Analysis we will transform the DataFrame into four separate Dat
 
 <br/>
 
-Queries to confirm that the data has been uploaded
+Queries to confirm that the data has been uploaded into pgAdmin tables.
 
 <br/>
 
