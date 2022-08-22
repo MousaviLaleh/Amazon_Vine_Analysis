@@ -36,8 +36,8 @@ For this analysis, we will determine if having a paid Vine review makes a differ
 <br/>
 
 First we pick reviews  that are more likely to be helpful.
-
 <br/>
+
 ![03.png](Images/03.png)
 
 <br/>
@@ -48,9 +48,13 @@ In the next step we will retrieve all the rows where the number of helpful_votes
 
 <br/>
 
-And then check if the reviews was or was not part of the Vine program. <br/>
-![05.png](Images/05.png)
+And then check if the reviews was or was not part of the Vine program. 
 <br/>
+
+![05.png](Images/05.png)
+
+<br/>
+
 ![06.png](Images/06.png)
 
 <br/>
