@@ -13,7 +13,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 <br/>
 
 ## Perform ETL on Amazon Product Reviews
-We will transform the DataFrame into four separate DataFrames that match the table schema in pgAdmin. Then, we will upload the transformed data into the appropriate tables and run queries in pgAdmin to confirm that the data has been uploaded.
+For this part of Analysis we will transform the DataFrame into four separate DataFrames that match the table schema in pgAdmin. Then, we will upload the transformed data into the appropriate tables and run queries in pgAdmin to confirm that the data has been uploaded.
 
 <br/>
 
