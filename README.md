@@ -52,12 +52,13 @@ And then check if the reviews was or was not part of the Vine program. <br/>
 <br/>
 ![06.png](Images/06.png)
 
+<br/>
+
 ### Percentage of 5-star reviews
 
 - **Vine and Non-Vine Program Reviews**
 
 <br/>
-
 
 ![07.png](Images/07.png)
 
