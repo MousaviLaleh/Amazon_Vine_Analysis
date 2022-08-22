@@ -61,8 +61,6 @@ And then check if the reviews was or was not part of the Vine program.
 
 ### Percentage of 5-star reviews
 
-- **Vine and Non-Vine Program Reviews Stats**
-
 <br/>
 
 ![07.png](Images/07.png)
