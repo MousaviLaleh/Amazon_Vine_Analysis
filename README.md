@@ -49,17 +49,15 @@ In the next step we will retrieve all the rows where the number of helpful_votes
 
 And then check if the reviews was or was not part of the Vine program. <br/>
 ![05.png](Images/05.png)
-
+<br/>
+![06.png](Images/06.png)
 
 ### Percentage of 5-star reviews
 
-- **Vine Program Reviews**
-
-![06.png](Images/06.png)
+- **Vine and Non-Vine Program Reviews**
 
 <br/>
 
-- **Non-Vine Program Reviews**
 
 ![07.png](Images/07.png)
 
