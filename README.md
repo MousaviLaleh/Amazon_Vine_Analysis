@@ -70,7 +70,7 @@ And then check if the reviews was or was not part of the Vine program.
 
 
 ## Summary
-The paid members with 52.34 percent and non-paid members with 52.69 percent show that having a paid Vine review doesn't makes a difference in the percentage of 5-star reviews for the outdoor equipments in Amazon market, and the companies can cancel this payment.
+The paid members with 52.34 percent and non-paid members with 52.69 percent show that having a paid Vine review doesn't make a difference in the percentage of 5-star reviews for the outdoor equipments in Amazon market. With this, we can assume that Vine customers are more critical when submitting their review. However, in order to support this assumption further, we should include all of the data rather than filtering it to a percentage of helpful vs. total votes as we did for this analysis.
 
 <br/>
 
